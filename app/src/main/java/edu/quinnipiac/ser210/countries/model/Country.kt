@@ -1,4 +1,6 @@
-package edu.quinnipiac.ser210.countries
+package edu.quinnipiac.ser210.countries.model
+
+import edu.quinnipiac.ser210.countries.R
 
 data class Country(
     val name: String,
